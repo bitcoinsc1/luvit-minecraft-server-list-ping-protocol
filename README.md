@@ -6,3 +6,5 @@ How to use:
   local query = require('mcquery')
   p(query('IP_ADDRESS', port))
 ```
+
+https://minecraft.wiki/w/Java_Edition_protocol/Server_List_Ping

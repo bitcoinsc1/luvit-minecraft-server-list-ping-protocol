@@ -1,4 +1,4 @@
-# Minecraft Server List Ping protocol implementation in Luvit
+# Minecraft Server List Ping Protocol implementation in Luvit
 
 How to use:
 

@@ -1,2 +1,8 @@
-# luvit-minecraft-server-list-ping
-Minecraft Server List Ping protocol implementation in Luvit
+# Minecraft Server List Ping protocol implementation in Luvit
+
+How to use:
+
+```lua
+  local query = require('mcquery')
+  p(query('IP_ADDRESS', port))
+```

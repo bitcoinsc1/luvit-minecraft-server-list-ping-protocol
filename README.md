@@ -3,11 +3,11 @@
 How to use:
 
 ```lua
-  local query = require('mcquery')
+local query = require('mcquery')
 
-  coroutine.wrap(function()
+coroutine.wrap(function()
     p(query('IP_ADDRESS', port))
-  end)()
+end)()
 ```
 
 https://minecraft.wiki/w/Java_Edition_protocol/Server_List_Ping
